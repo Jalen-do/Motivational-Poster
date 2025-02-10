@@ -1,0 +1,45 @@
+
+p{
+    padding-top: 5px;
+}
+
+p{
+    padding-bottom: 50px;
+    font-size: .9em;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    scroll-margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    margin: 8px;
+}
+
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
